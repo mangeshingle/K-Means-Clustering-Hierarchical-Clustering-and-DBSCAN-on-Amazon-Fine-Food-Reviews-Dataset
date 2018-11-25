@@ -1,0 +1,2 @@
+# K-Means-Clustering-Hierarchical-Clustering-and-DBSCAN-on-Amazon-Fine-Food-Reviews-Dataset
+Here we will use all clustering techniques (unsupervised learning) on Amazon Fine Food reviews Dataset to group together all the similar reviews in a same cluster . Here we will apply k-means , k-means++ , k-medoids , Density-based spatial clustering of applications with noise (DBSCAN) and hierarchical clustering techniques on Amazon Food dataset to cluster reviews semantically
